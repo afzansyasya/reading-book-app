@@ -1,0 +1,68 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-image: url('./book-shelves.jpg');
+  background-position: center top;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  text-align: center;
+  padding: 40px;
+  color: #5E3023;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  color: #F3E9DD;
+  text-shadow: 2px 2px 5px #5E3023;
+}
+
+h2, h3 {
+  font-family: "Times New Roman", Times, serif;
+  color: #5E3023;
+}
+
+input, textarea {
+  font-family: "Times New Roman", Times, serif;
+  padding: 10px;
+  border: 1px solid #C18553;
+  border-radius: 8px;
+  margin: 8px;
+  width: 250px;
+}
+
+button {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #895637;
+  color: #F3E9DD;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background 0.3s;
+  margin: 5px;
+  box-shadow: 0 2px 4px #5E3023;
+}
+
+button:hover {
+  background-color: #5E3023;
+}
+
+#listBtn {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#result, #recommendations, #readListBooks {
+  font-family: "Times New Roman", Times, serif;
+  display: block;
+  width: fit-content;
+  max-width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #F3E9DD;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+textarea {
+  width: 80%;
+}

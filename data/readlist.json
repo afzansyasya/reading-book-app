@@ -1,0 +1,44 @@
+[
+  {
+    "book": "Dog Days",
+    "author": [
+      "Jeff Kinney"
+    ],
+    "note": "want to read tomorrow"
+  },
+  {
+    "book": "Girl in Pieces",
+    "author": [
+      "Kathleen Glasgow"
+    ],
+    "note": "read tomorrow"
+  },
+  {
+    "book": "Carrie",
+    "author": [
+      "Stephen King"
+    ],
+    "note": "buy tomorrow"
+  },
+  {
+    "book": "The Shining",
+    "author": [
+      "Stephen King"
+    ],
+    "note": "read  later"
+  },
+  {
+    "book": "The Shining",
+    "author": [
+      "Stephen King"
+    ],
+    "note": "read now"
+  },
+  {
+    "book": "Harry Potter and the Prisoner of Azkaban",
+    "author": [
+      "J. K. Rowling"
+    ],
+    "note": ""
+  }
+]
